@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom API Endpoints
- * Description: This plugin adds custom endpoints to the WordPress REST API.
+ * Description: This plugin adds a custom endpoint to the WordPress REST API.
  * Version: 1.0
  * Author: Jorge
  */
